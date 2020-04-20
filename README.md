@@ -5,9 +5,6 @@ this project is a base ready to begin to build any other React project, It uses 
 Clone, enjoy and give me a star!
 
 
-## Preview
-![](/preview.png)
-
 After clone this project you have to run:
 ### Install project
 ```bash
