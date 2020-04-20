@@ -1,9 +1,10 @@
 import React from 'react';
+import './styles.styl';
 
 export default function Button() {
   return (
-    <Button className="btn" type="button">
+    <button className="btn" type="button">
       click me
-    </Button>
+    </button>
   );
 }
